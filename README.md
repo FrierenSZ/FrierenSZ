@@ -1,16 +1,40 @@
-## Hi there 👋
+<h2 align="center">Olá, meu nome é Guilherme Hipólito!</h2>
+<p align="center">Sou Estudante do 3º em Desenvolvimento de Sistemas e atualmente estou estudando sobre Linguagens de progamação e tecnologias. Tenho um grande interesse por programação e estou sempre explorando novas tecnologias e habilidades, além de criar projetos e desenvolver automações. Planejo aplicar minhas habilidades em projetos desafiadores, explorar novas tecnologias e contribuir com projetos em grande escala.</p>
 
-<!--
-**FrierenSZ/FrierenSZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Tecnologias</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,py,postgres" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<h2 align="center">Frameworks e bibliotecas</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discordjs,firebase,git" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">Produtividade</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,vscode,github,vercel,discord,npm,yarn" />
+  </a>
+</p>
+
+<h2 align="center">Meus Status no GitHub</h2>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FrierenSZ&theme=dracula&show_icons=true&hide_border=true&count_private=true&locale=pt-br" alt="Github"/>
+</p>
+<p align="center">
+  <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrierenSZ&theme=dracula&show_icons=true&hide_border=true&locale=pt-br&langs_count=10&layout=donut" alt="GitHub"/>
+</p>
+
+
+##
+<div align="center"> 
+  
+  <a href = "mailto:ghipolitomonteiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/guilhermehipolitomonteiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
