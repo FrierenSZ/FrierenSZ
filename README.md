@@ -1,5 +1,5 @@
 <h2 align="center">Olá, meu nome é Guilherme Hipólito!</h2>
-<p align="center">Sou Estudante do 3º em Desenvolvimento de Sistemas e atualmente estou estudando sobre Linguagens de progamação e tecnologias. Tenho um grande interesse por programação e estou sempre explorando novas tecnologias e habilidades, além de criar projetos e desenvolver automações. Planejo aplicar minhas habilidades em projetos desafiadores, explorar novas tecnologias e contribuir com projetos em grande escala.</p>
+<p align="center">Sou Estudante em Desenvolvimento de Sistemas e atualmente estou estudando sobre Linguagens de progamação e tecnologias. Tenho um grande interesse por programação e estou sempre explorando novas tecnologias e habilidades, além de criar projetos e desenvolver automações. Planejo aplicar minhas habilidades em projetos desafiadores, explorar novas tecnologias e contribuir com projetos em grande escala.</p>
 
 <h2 align="center">Tecnologias</h2>
 <p align="center">
