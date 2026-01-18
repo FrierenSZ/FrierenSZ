@@ -27,7 +27,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FrierenSZ&theme=dracula&show_icons=true&hide_border=true&count_private=true&locale=pt-br" alt="Github"/>
 </p>
 <p align="center">
-  <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrierenSZ&theme=dracula&show_icons=true&hide_border=true&locale=pt-br&langs_count=10&layout=donut" alt="GitHub"/>
+  <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrierenSZ&theme=dracula&show_icons=true&hide_border=true&locale=pt-br&langs_count=10&layout=donut&count_private=true" alt="GitHub"/>
 </p>
 
 
